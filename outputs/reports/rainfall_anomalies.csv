@@ -1,0 +1,11 @@
+date,city,rainfall_mm,season,z_score,anomaly_type
+2018-04-07,VirtualCity,54.84863877749706,Summer,10.82,High
+2021-05-31,VirtualCity,81.43531761499041,Summer,16.6,High
+2022-02-18,VirtualCity,89.14906398368032,Winter,18.28,High
+2022-03-18,VirtualCity,55.22771523071424,Summer,10.9,High
+2022-06-28,VirtualCity,65.75161862899691,Monsoon,13.19,High
+2023-01-22,VirtualCity,69.15397665095712,Winter,13.93,High
+2023-04-02,VirtualCity,84.61430664700231,Summer,17.29,High
+2023-08-11,VirtualCity,70.97996274030466,Monsoon,14.33,High
+2024-04-10,VirtualCity,53.99348010221067,Summer,10.64,High
+2024-12-29,VirtualCity,64.69787440493131,Winter,12.96,High
